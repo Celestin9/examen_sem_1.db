@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T16:43:20.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="6CPBioUY5hWQ_ohDATX2" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-27T17:29:26.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="GtFg8pAUPUZP7uKbAopL" version="22.1.17" type="github">
   <diagram name="Page-1" id="6TNgpSrDcOpzwkoct_fL">
-    <mxGraphModel dx="3788" dy="2740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1969" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
             <mxRectangle width="340" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRaskMvQxXX45ESNGeVu-114" value="manga_series" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="yRaskMvQxXX45ESNGeVu-114" value="manga" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="425" width="310" height="400" as="geometry">
             <mxRectangle x="-110" y="420" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -483,7 +483,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRaskMvQxXX45ESNGeVu-185" value="monthly_reads_count INT NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="yRaskMvQxXX45ESNGeVu-183">
+        <mxCell id="yRaskMvQxXX45ESNGeVu-185" value="manga_id INT NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="yRaskMvQxXX45ESNGeVu-183">
           <mxGeometry x="30" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -624,7 +624,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yRaskMvQxXX45ESNGeVu-236" value="manga_series_id INT NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="yRaskMvQxXX45ESNGeVu-234">
+        <mxCell id="yRaskMvQxXX45ESNGeVu-236" value="manga_id INT NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="yRaskMvQxXX45ESNGeVu-234">
           <mxGeometry x="30" width="270" height="30" as="geometry">
             <mxRectangle width="270" height="30" as="alternateBounds" />
           </mxGeometry>
